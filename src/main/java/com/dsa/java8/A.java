@@ -7,8 +7,8 @@ import java.util.stream.Stream;
 public class A {
     public static void main(String[] args) {
 
-
-        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 4, 5, 7);
+// TODO: jjkh
+        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 4, 5, 7,6);
         List<String> word = Arrays.asList("apple", "banana", "cherry", "app", "application");
 //        List<Integer> primeNum = list.stream().filter(PrimeNumber::isPrimes).toList();
 //        System.out.println("Prime number"+primeNum);
