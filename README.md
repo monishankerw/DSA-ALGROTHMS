@@ -1631,3 +1631,4 @@ Monitoring
 ```
 
 For your Java/Spring Boot background, I would especially prepare **Java 8 Streams + HashMap internals + concurrency + CompletableFuture + LRU Cache + rate limiter + idempotency + Kafka duplicate handling + SQL + payment/wallet scenarios**.
+# DSA Algorithms
